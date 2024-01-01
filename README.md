@@ -19,3 +19,7 @@ The following preprocessing steps have been performed on the dataset:
 Handling categorical variables: Encoding categorical variables like workclass, education, marital status, occupation, relationship, race, sex, and native country using label encoding.
 
 Feature scaling: Standard scaling or normalization of numerical features such as age, capital_gain, capital_loss, and hours_per_week.
+
+Results:
+
+The results of the logistic regression model, including accuracy and other relevant metrics, can be found in the notebook or script output.
